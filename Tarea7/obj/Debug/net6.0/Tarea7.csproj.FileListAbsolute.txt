@@ -1,0 +1,15 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\bin\Debug\net6.0\Tarea7.exe
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\bin\Debug\net6.0\Tarea7.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\bin\Debug\net6.0\Tarea7.runtimeconfig.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\bin\Debug\net6.0\Tarea7.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\bin\Debug\net6.0\Tarea7.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\refint\Tarea7.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\Tarea7.genruntimeconfig.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Net6VScode\PoloTecno\tarea7\obj\Debug\net6.0\ref\Tarea7.dll
