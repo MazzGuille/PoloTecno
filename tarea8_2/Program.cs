@@ -58,7 +58,7 @@ for (int i = 0; i < columnasMatriz; i++)
     {
       suma = suma + numeros[k,i];                     
     }       
-    promedios[i] = (suma / columnasMatriz);      
+    promedios[i] = (suma / filasMatriz);      
 }
 
 
