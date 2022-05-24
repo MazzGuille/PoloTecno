@@ -1,4 +1,6 @@
-﻿Clear();
+﻿using static System.Console;
+
+Clear();
 //1)Crear una matriz de dos dimensiones de tipo int llamada numeros.
 int[,] numeros;
 
