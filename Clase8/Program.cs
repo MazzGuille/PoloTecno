@@ -1,8 +1,4 @@
-﻿using System.Security.AccessControl;
-using static System.Console;
-using System.Collections;
-
-//Clear();
+﻿Clear();
 //1)Crear una matriz de dos dimensiones de tipo int llamada numeros.
 int[,] numeros;
 
