@@ -1,27 +1,26 @@
-﻿using System.Security.AccessControl;
-using static System.Console;
-using System.Collections;
+﻿using static System.Console;
 
-//Clear();
+Clear();
 //1)Crear una matriz de dos dimensiones de tipo int llamada numeros.
 int[,] numeros;
 
 //2) Determinar el tamaño de cada dimansion (fila, columnas) mediante valores ingresados por pantalla.
-WriteLine("Indica el numero de filas que tendra la matriz");
+WriteLine("Indica el numero de filas que tendra la matriz \"Numeros\"");
 int filasMatriz = int.Parse(ReadLine());
 WriteLine();
 
-WriteLine("Indica el numero de columnas que tendra la matriz");
+WriteLine("Indica el numero de columnas que tendra la matriz \"Numeros\"");
 int columnasMatriz = int.Parse(ReadLine());
 WriteLine();
 
 numeros = new int[filasMatriz, columnasMatriz];
 
-WriteLine($"Numero de filas: {numeros.GetLength(0)}\nNumero de columnas: {numeros.GetLength(1)}");
+WriteLine($"El numero de filas de la matriz \"Numeros\" es: {numeros.GetLength(0)}\nEl numero de columnas de la matriz \"Numeros\" es: {numeros.GetLength(1)}");
+WriteLine();
 
 //3) Declarar un vector de tipo double llamado promedios
 double[] promedios;
-promedios = new double[columnasMatriz];
+promedios = new double[columnasMatriz]; 
 
 
 //4) Recorrer la matriz para su carga con elementos de tipo int
@@ -30,14 +29,8 @@ for (int i = 0; i < numeros.GetLength(0); i++)
 
     for (int j = 0; j < numeros.GetLength(1); j++)
     {
-        WriteLine($"Introduce un valor para la posicion {i} de la fila");
-        int valorFila = int.Parse(ReadLine());
-
-        WriteLine($"Introduce un valor para la posicion {j} de la columna");
-        int valorCol = int.Parse(ReadLine());
-
-
-        numeros[i, j] = valorFila * valorCol;
+        WriteLine($"Introduce un valor para la posicion {i},{j} de la matriz \"Numeros\"");
+        numeros[i,j] = int.Parse(ReadLine());
     }
 }
 

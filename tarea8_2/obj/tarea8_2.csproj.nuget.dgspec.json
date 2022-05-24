@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\Clase8\\clase8.csproj": {}
+    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\tarea8_2\\tarea8_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\Clase8\\clase8.csproj": {
+    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\tarea8_2\\tarea8_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\Clase8\\clase8.csproj",
-        "projectName": "clase8",
-        "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\Clase8\\clase8.csproj",
+        "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\tarea8_2\\tarea8_2.csproj",
+        "projectName": "tarea8_2",
+        "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\tarea8_2\\tarea8_2.csproj",
         "packagesPath": "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\Clase8\\obj\\",
+        "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Net6VScode\\PoloTecno\\tarea8_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
