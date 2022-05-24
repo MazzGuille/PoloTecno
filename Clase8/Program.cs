@@ -57,10 +57,10 @@ for (int i = 0; i < numeros.GetLength(1); i++)
 
 
 //6) Calcular el promedio de cada columna y asignarlo a la posicion correspondiente dentro del vector promedios
-double suma = 0;
+//double suma = 0; no era necesario declararlo aca
 for (int i = 0; i < columnasMatriz; i++)
 {
-    suma = 0;
+    double suma = 0;
     for(int k = 0; k < filasMatriz; k++)
     {
       suma = suma + numeros[k,i];                     
